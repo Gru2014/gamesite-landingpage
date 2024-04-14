@@ -135,7 +135,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; junayet.khan063@gmail.com   All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; {new Date().getFullYear()}   All rights reserved.</div>
 
           </div>
 
