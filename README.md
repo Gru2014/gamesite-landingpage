@@ -6,8 +6,7 @@ frontend Next.js with TypeScript
 
 backend will be Nest.js with TypeScript, Socket.io and Postgres
 
-## netlify
-
-https://vermillion-dasik-3480b3.netlify.app/
+## vercel
+https://gamesite-landingpage.vercel.app/
 
 This is UI
